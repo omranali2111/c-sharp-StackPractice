@@ -3,6 +3,7 @@
     private static void Main(string[] args)
     {
        Console.WriteLine($"the parentheses order is: {isInOrder("){})")}");
+        Console.WriteLine($"the parentheses order is: {IsBalanced("()")}");
     }
     
     public static bool isInOrder(string input)
@@ -42,5 +43,30 @@
             return true;
         return false;
     }
+
+    public static bool IsBalanced(string input)
+    {
+        Stack<char> stack = new Stack<char>();
+
+        foreach (char ch in input)
+        {
+            if (ch == '(' || ch == '[' || ch == '{')
+            {
+                stack.Push(ch);
+            }
+            else if (ch == ')' || ch == ']' || ch == '}')
+            {
+                if (stack.Count == 0 || !((stack.Peek() == '(' && ch == ')') || (stack.Peek() == '[' && ch == ']') || (stack.Peek() == '{' && ch == '}')))
+                {
+                    return false;
+                }
+
+                stack.Pop();
+            }
+        }
+
+        return stack.Count == 0;
+    }
+
 }
 
