@@ -1,0 +1,15 @@
+C:\Users\ict\Desktop\code-TRA\c-sharp-StackPractice\c-sharp-StackPractice\bin\Debug\net6.0\c-sharp-StackPractice.exe
+C:\Users\ict\Desktop\code-TRA\c-sharp-StackPractice\c-sharp-StackPractice\bin\Debug\net6.0\c-sharp-StackPractice.deps.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-StackPractice\c-sharp-StackPractice\bin\Debug\net6.0\c-sharp-StackPractice.runtimeconfig.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-StackPractice\c-sharp-StackPractice\bin\Debug\net6.0\c-sharp-StackPractice.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-StackPractice\c-sharp-StackPractice\bin\Debug\net6.0\c-sharp-StackPractice.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-StackPractice\c-sharp-StackPractice\obj\Debug\net6.0\c-sharp-StackPractice.csproj.AssemblyReference.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-StackPractice\c-sharp-StackPractice\obj\Debug\net6.0\c-sharp-StackPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ict\Desktop\code-TRA\c-sharp-StackPractice\c-sharp-StackPractice\obj\Debug\net6.0\c-sharp-StackPractice.AssemblyInfoInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-StackPractice\c-sharp-StackPractice\obj\Debug\net6.0\c-sharp-StackPractice.AssemblyInfo.cs
+C:\Users\ict\Desktop\code-TRA\c-sharp-StackPractice\c-sharp-StackPractice\obj\Debug\net6.0\c-sharp-StackPractice.csproj.CoreCompileInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-StackPractice\c-sharp-StackPractice\obj\Debug\net6.0\c-sharp-StackPractice.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-StackPractice\c-sharp-StackPractice\obj\Debug\net6.0\refint\c-sharp-StackPractice.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-StackPractice\c-sharp-StackPractice\obj\Debug\net6.0\c-sharp-StackPractice.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-StackPractice\c-sharp-StackPractice\obj\Debug\net6.0\c-sharp-StackPractice.genruntimeconfig.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-StackPractice\c-sharp-StackPractice\obj\Debug\net6.0\ref\c-sharp-StackPractice.dll
